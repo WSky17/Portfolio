@@ -1,1 +1,14 @@
-DS_Store
+.DS_Store
+# Java
+*.class
+*.jar
+build/
+dist/
+
+# NetBeans
+nbproject/private/
+# Python
+__pycache__/
+*.pyc
+# macOS
+.DS_Store
