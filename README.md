@@ -1,17 +1,6 @@
 # Coding Portfolio
 
-This repository serves as a central hub for my development projects across multiple languages and domains.
-
-## Languages
-- Python
-- JavaScript
-- R
-- C++
-
-## Project Areas
-- General programming and problem solving
-- Web development
-- Data science and analysis
+This repository serves as a central hub for my development projects.
 
 ---
 
@@ -24,7 +13,28 @@ A Java-based landscaping management application demonstrating GUI development an
 
 ---
 
-## In Progress / Upcoming
-- Python projects and exercises
-- Data analysis projects
-- Web development work
+### Treasure Island Game
+A text-based adventure game built in Python.
+
+🔗 https://github.com/WSky17/treasure-island-game
+
+---
+
+### Python Exercises
+A collection of Python learning projects and practice scripts.
+
+🔗 https://github.com/WSky17/python-exercises
+
+---
+
+## Skills & Technologies
+- Python
+- Java
+- JavaScript
+- R
+- C++
+
+---
+
+## Notes
+This portfolio is continuously evolving as I build new projects and improve existing ones.
