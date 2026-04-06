@@ -1,4 +1,6 @@
-This repository contains a collection of my coding projects and experiments across multiple languages and domains.
+# Coding Portfolio
+
+This repository serves as a central hub for my development projects across multiple languages and domains.
 
 ## Languages
 - Python
@@ -13,9 +15,16 @@ This repository contains a collection of my coding projects and experiments acro
 
 ---
 
-## Featured Project: Sky Landscaping (Java)
+## Featured Projects
 
-A Java-based landscaping management application that demonstrates object-oriented design, file handling, and GUI development.
+### Java Sky Landscaping
+A Java-based landscaping management application demonstrating GUI development and object-oriented design.
 
-### Presentation
-[View Project Presentation](https://docs.google.com/presentation/d/1dGJu96tlU30jtnPL0Li7pACg7BYaYDPO/edit?usp=sharing&ouid=107367100649811419158&rtpof=true&sd=true)
+🔗 https://github.com/WSky17/java-sky-landscaping
+
+---
+
+## In Progress / Upcoming
+- Python projects and exercises
+- Data analysis projects
+- Web development work
